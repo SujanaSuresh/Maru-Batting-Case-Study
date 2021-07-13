@@ -1,1 +1,6 @@
-# Maru-Batting-Case-Study
+# Maru-Batting-Case-Study 
+
+# Objective 
+
+# Solution 
+
