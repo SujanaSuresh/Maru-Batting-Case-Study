@@ -28,6 +28,7 @@ The segment with the highest CLV is the Elite Ball players targeted with the par
 Question 4: 
 
 We suggest that the most attractive customer segment is the Elite ball players (Party). That is because they have the highest Customer Lifetime Value of all segments. They bring a lot of revenue and compensate for the big investments. However, since they are not a large group, MBC needs other segments too, such as Little Leagues to cover the costs and take advantage of the facilities for the rest of the hours. 
+![image](https://user-images.githubusercontent.com/86486235/125602575-2118a6ea-ebfa-4e6b-8a8d-ee3a74cce97c.png)
 
 Question 5 - 7: 
 
