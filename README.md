@@ -1,6 +1,6 @@
 # Maru-Batting-Case-Study 
 
-# Onjective 
+# Objective 
 
 # Solution 
 
