@@ -18,7 +18,7 @@ In the Appendix (Table 2), there are results or the profits per year and the bre
 Question 3: 
 
 CLV for each segment was calculated using the following formula: 
-The segment with the highest CLV is the Elite Ball players targeted with the party. They have a value of () when subtracting their acquisition cost and a lifetime of 11 years.
+The segment with the highest CLV is the Elite Ball players targeted with the party. They have a value of () when subtracting their acquisition cost and a lifetime of 11 years. 
 ![image](https://user-images.githubusercontent.com/86486235/125600349-9dfcb6fd-cf48-45f8-9a09-bfc8ea02ab1e.png) 
 
 Question 4: 
