@@ -18,4 +18,16 @@ In the Appendix (Table 2), there are results or the profits per year and the bre
 Question 3: 
 
 CLV for each segment was calculated using the following formula: 
-The segment with the highest CLV is the Elite Ball players targeted with the party. They have a value of 
+The segment with the highest CLV is the Elite Ball players targeted with the party. They have a value of () when subtracting their acquisition cost and a lifetime of 11 years . 
+
+Question 4: 
+
+We suggest that the most attractive customer segment is the Elite ball players (Party). That is because they have the highest Customer Lifetime Value of all segments. They bring a lot of revenue and compensate for the big investments. However, since they are not a large group, MBC needs other segments too, such as Little Leagues to cover the costs and take advantage of the facilities for the rest of the hours. 
+
+Question 5 - 6: 
+
+Calculating the new CLV after the price discount and the increase in the retention rate, the loss in the revenue is compensated by the higher retention rate. The lifetime of Elite ball players increases by 4 years. 
+
+# Conclusion 
+
+Price promotion would benefit the company, as long as it leads to greater CLV, so MBC should offer the discount. 
