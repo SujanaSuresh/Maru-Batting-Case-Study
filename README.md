@@ -36,6 +36,7 @@ Calculating the new CLV after the price discount and the increase in the retenti
 ![image](https://user-images.githubusercontent.com/86486235/125602766-4a457ca5-d95b-483b-b96f-779367028dff.png)
 ![image](https://user-images.githubusercontent.com/86486235/125602903-d8ccd41a-fc71-4fc7-93f8-e48352903d51.png)
 
+
 # Conclusion 
 
 Price promotion would benefit the company, as long as it leads to greater CLV, so MBC should offer the discount. 
