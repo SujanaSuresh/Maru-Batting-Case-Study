@@ -33,6 +33,7 @@ We suggest that the most attractive customer segment is the Elite ball players (
 Question 5 - 7: 
 
 Calculating the new CLV after the price discount and the increase in the retention rate, the loss in the revenue is compensated by the higher retention rate. The lifetime of Elite ball players increases by 4 years. 
+![image](https://user-images.githubusercontent.com/86486235/125602766-4a457ca5-d95b-483b-b96f-779367028dff.png)
 
 # Conclusion 
 
