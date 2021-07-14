@@ -8,7 +8,7 @@ Question 1:
 
 To calculate the acquisition cost for each target we divided the Contact cost by the response rate. The results (Appendix Table 1) shows that the Elite ballplayers (party) is the group with the highest acquisition cost and the Entertainment Seekers is the one with low loyalty.The frequency with which the players use the services or the center and the amount of money they spend in the club are the main reasons why Elite Ball players (party) is the most important target group for the company.
 
-![image]()
+![image](https://user-images.githubusercontent.com/86486235/125588437-32f82a5c-a49f-4380-ab43-414a1f403fe0.png)
 
 
 Question 2: 
