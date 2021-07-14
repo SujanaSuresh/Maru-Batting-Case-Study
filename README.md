@@ -9,6 +9,8 @@ Conducted Strategic Marketing Analysis of Maru Batting Centre : Customer Lifetim
 5. Competition and Competitiveness Analysis
 6. Customer Value Analysis
 
+![image](https://user-images.githubusercontent.com/86486235/125622963-bda91aa0-a4da-46dd-830f-2d6ec76d7a5f.png)
+
 
 # Objective 
 
