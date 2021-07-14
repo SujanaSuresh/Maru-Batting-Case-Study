@@ -23,6 +23,7 @@ The segment with the highest CLV is the Elite Ball players targeted with the par
 ![image](https://user-images.githubusercontent.com/86486235/125601919-718dc925-d7b4-4396-92d9-dbf5cb9b6ef2.png)
 ![image](https://user-images.githubusercontent.com/86486235/125602098-7dc43587-0325-47ed-8bb3-64f53ed67a38.png)
 ![image](https://user-images.githubusercontent.com/86486235/125602250-3346610a-8055-4e8f-865f-72f185169d47.png)
+![image](https://user-images.githubusercontent.com/86486235/125602420-e0fcc62c-fc55-4026-b91f-edcc13fdafef.png)
 
 Question 4: 
 
