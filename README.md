@@ -1,6 +1,18 @@
 # Maru-Batting-Case-Study 
 
+Conducted Strategic Marketing Analysis of Maru Batting Centre : Customer Lifetime Value case study which comprises of the following sections: 
+
+1. Maru Batting Centre: Customer Lifetime Value Case Description
+2. Market Analysis
+3. Market Potential Analysis 
+4. Market Share Potential Anaylsis
+5. Competition and Competitiveness Analysis
+6. Customer Value Analysis
+
+
 # Objective 
+
+Customer Lifetime Value case study allows students to compute customer acquisition costs, retention rates, and customer lifetime value in order for a company to calculate the costs and capital to better serve its various customer segments. 
 
 # Solution 
 
