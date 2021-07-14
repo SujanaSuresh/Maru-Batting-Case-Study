@@ -37,6 +37,7 @@ Calculating the new CLV after the price discount and the increase in the retenti
 ![image](https://user-images.githubusercontent.com/86486235/125602903-d8ccd41a-fc71-4fc7-93f8-e48352903d51.png)
 ![image](https://user-images.githubusercontent.com/86486235/125603094-9ca13c95-45cd-490a-aa94-4b99915b2103.png)
 ![image](https://user-images.githubusercontent.com/86486235/125603287-485ea3f6-fa88-4dca-955d-dc816d7549c0.png)
+![image](https://user-images.githubusercontent.com/86486235/125603436-85c3cd6e-f4e4-481c-98e2-11798af7d050.png)
 
 
 # Conclusion 
