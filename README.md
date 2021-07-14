@@ -6,7 +6,7 @@
 
 Question 1: 
 
-To calculate the acquisition cost for each target we divided the Contact cost by the response rate. The results (Appendix Table 1) shows that the Elite ballplayers (party) is the group with the highest acquisition cost and the Entertainment Seekers is the one with low loyalty.The frequency with which the players use the services or the center and the amount of money they spend in the club are the main reasons why Elite Ball players (party) is the most important target group for the company.
+To calculate the acquisition cost for each target we divided the Contact cost by the response rate. The results (Appendix Table 1) shows that the Elite ballplayers (Gala) is the group with the highest acquisition cost and the Entertainment Seekers is the one with low loyalty.The frequency with which the players use the services or the center and the amount of money they spend in the club are the main reasons why Elite Ball players (Gala) is the most important target group for the company.
 ![image](https://user-images.githubusercontent.com/86486235/125588437-32f82a5c-a49f-4380-ab43-414a1f403fe0.png)
 
 
@@ -18,7 +18,7 @@ In the Appendix (Table 2), there are results or the profits per year and the bre
 Question 3: 
 
 CLV for each segment was calculated using the following formula: 
-The segment with the highest CLV is the Elite Ball players targeted with the party. They have a value of () when subtracting their acquisition cost and a lifetime of 11 years. 
+The segment with the highest CLV is the Elite Ball players targeted with the Gala. They have a value of 15916 when subtracting their acquisition cost and a lifetime of 11 years. 
 ![image](https://user-images.githubusercontent.com/86486235/125601807-95e34406-d2a0-4942-a12d-04d0aa62afec.png) 
 ![image](https://user-images.githubusercontent.com/86486235/125601919-718dc925-d7b4-4396-92d9-dbf5cb9b6ef2.png)
 ![image](https://user-images.githubusercontent.com/86486235/125602098-7dc43587-0325-47ed-8bb3-64f53ed67a38.png)
@@ -27,7 +27,7 @@ The segment with the highest CLV is the Elite Ball players targeted with the par
 
 Question 4: 
 
-We suggest that the most attractive customer segment is the Elite ball players (Party). That is because they have the highest Customer Lifetime Value of all segments. They bring a lot of revenue and compensate for the big investments. However, since they are not a large group, MBC needs other segments too, such as Little Leagues to cover the costs and take advantage of the facilities for the rest of the hours. 
+We suggest that the most attractive customer segment is the Elite ball players (Gala). That is because they have the highest Customer Lifetime Value of all segments. They bring a lot of revenue and compensate for the big investments. However, since they are not a large group, MBC needs other segments too, such as Little Leagues to cover the costs and take advantage of the facilities for the rest of the hours. 
 ![image](https://user-images.githubusercontent.com/86486235/125602575-2118a6ea-ebfa-4e6b-8a8d-ee3a74cce97c.png)
 
 Question 5 - 7: 
